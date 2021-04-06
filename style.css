@@ -38,16 +38,16 @@
   display: flex;
 }
 .task-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .task-list__task,
 .subtitle {
-  list-style:none;
+  list-style: none;
 }
 .input,
 .button {
-  outline:none;
+  outline: none;
 }
 .button {
   background: none;
@@ -140,14 +140,14 @@
 
 /* Edit Task */
 .task-list .task-list__task .text {
-  display:none
+  display: none
 }
 
 .task-list .task-list__task.edit-mode .text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task-list .task-list__task.edit-mode .task-item {
-  display:none;
+  display: none;
 }
