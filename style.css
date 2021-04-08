@@ -138,7 +138,7 @@
 }
 
 /* Completed */
-.compl-tasks .task-list__task-item {
+.compl-tasks .todo__task-item {
   text-decoration: line-through;
   color: #888;
 }
